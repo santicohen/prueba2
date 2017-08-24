@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box!important;
+}
+
+form {
+  display: block;
+  max-width: 530px;
+  margin: 25px auto;
+  padding: 40px 0;
+  line-height: 1.35;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.imagenes {
+  display: inline-block;
+}
+
+img {
+  margin-top: 30px;
+  width: 50px;
+  height: 50px;
+}
+
+.container-register {
+  max-width: 530px;
+  margin: 25px auto 0;
+}
+
+.nav-wrapper {
+  background-color: darkblue;
+}
+
+.nav-wrapper a {
+  color: #FFED3D;
+}
+
+.nav-wrapper .brand-logo{
+  color: #FFED3D;
+}
+
+.card-image img{
+  height: auto;
+}
+
+.page-footer {
+  background-color: darkblue;
+  color: #FFED3D;
+}
+
+.carousel-item img {
+  height: auto;
+}
+
+#map {
+  width:400px;
+  height:400px;
+}
